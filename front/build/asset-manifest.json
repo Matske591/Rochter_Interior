@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d07579b.css",
+    "main.js": "/static/js/main.741e9563.js",
+    "static/media/fourth_image.jpg": "/static/media/fourth_image.28606db0fd280ee170fc.jpg",
+    "static/media/hero-bcg.jpeg": "/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
+    "static/media/hero-bcg-2.jpeg": "/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
+    "static/media/interier.png": "/static/media/interier.a1ba0ee82fd8d694615a.png",
+    "static/media/second_img.jpg": "/static/media/second_img.8856752da5ce778b3963.jpg",
+    "static/media/third_image.jpg": "/static/media/third_image.135b6e5d70e6d3db41c6.jpg",
+    "static/media/logo.svg": "/static/media/logo.bf3f78b701900c466e0b01d714691abd.svg",
+    "index.html": "/index.html",
+    "main.4d07579b.css.map": "/static/css/main.4d07579b.css.map",
+    "main.741e9563.js.map": "/static/js/main.741e9563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d07579b.css",
+    "static/js/main.741e9563.js"
+  ]
+}
